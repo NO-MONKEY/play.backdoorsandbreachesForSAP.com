@@ -1,0 +1,184 @@
+{
+  "title": "SAP Core",
+  "revdate": "08-01-2023",
+  "link": "https://www.no-monkey.com",
+  "data": [
+    {
+      "name": "Phish",
+      "image": "decks/SAP/BNB_CARDS_v2.1_IC-1.png",
+      "type": "initial",
+      "id": "001",
+      "details": "<li><a target=\"_blank\" href=\"https://github.com/drk1wi/Modlishka\">https://github.com/drk1wi/Modlishka</a></li><li><a target=\"_blank\" href=\"https://blackhillsinfosec.com/how-to-phish-for-geniuses\">https://blackhillsinfosec.com/how-to-phish-for-geniuses</a></li><li><a target=\"_blank\" href=\"https://www.blackhillsinfosec.com/offensive-spf-how-to-automate-anti-phishing-reconnaissance-using-sender-policy-framework\">https://www.blackhillsinfosec.com/offensive-spf-how-to-automate-anti-phishing-reconnaissance-using-sender-policy-framework</a></li>"
+    },
+    {
+      "name": "Insider Threat",
+      "image": "decks/SAP/BNB_CARDS_v2.1_IC-4.png",
+      "type": "initial",
+      "id": "004",
+      "details": "<a target=\"_blank\" href=\"https://americanaddictioncenters.org\">https://americanaddictioncenters.org</a>"
+    },
+    {
+      "name": "Social Engineering",
+      "image": "decks/SAP/BNB_CARDS_v2.1_IC-7.png",
+      "type": "initial",
+      "id": "007",
+      "details": "<li><a target=\"_blank\" href=\"https://youtu.be/rnmcRTnTNC8\">https://youtu.be/rnmcRTnTNC8</a></li><li><a target=\"_blank\" href=\"https://youtu.be/FvhkKwHjUVg\">https://youtu.be/FvhkKwHjUVg</a></li>"
+    },
+    {
+      "name": "Exploitable External Service",
+      "image": "decks/SAP/BNB_CARDS_v2.1_IC-9.png",
+      "type": "initial",
+      "id": "009",
+      "details": "<a target=\"_blank\" href=\"https://www.metasploit.com\">https://www.metasploit.com</a>"
+    },
+    {
+      "name": "Internal Password Spray",
+      "image": "decks/SAP/BNB_CARDS_v2.1_PE-1.png",
+      "type": "pivot",
+      "id": "011",
+      "details": "<li><a target=\"_blank\" href=\"https://github.com/dafthack/DomainPasswordSpray\">https://github.com/dafthack/DomainPasswordSpray</a></li><li><a target=\"_blank\" href=\"https://github.com/ropnop/kerbrute\">https://github.com/ropnop/kerbrute</a></li><li><a target=\"_blank\" href=\"https://www.blackhillsinfosec.com/webcast-attack-tactics-5-zero-to-hero-attack\">https://www.blackhillsinfosec.com/webcast-attack-tactics-5-zero-to-hero-attack</a></li>"
+    },
+    {
+      "name": "Credential Stuffing",
+      "image": "decks/SAP/BNB_CARDS_v2.1_PE-5.png",
+      "type": "pivot",
+      "id": "015",
+      "details": "<li><a target=\"_blank\" href=\"https://github.com/Exploit-install/PowerSploit\">https://github.com/Exploit-install/PowerSploit</a></li><li><a target=\"_blank\" href=\"https://www.blackhillsinfosec.com/domain-goodness-learned-love-ad-explorer\">https://www.blackhillsinfosec.com/domain-goodness-learned-love-ad-explorer</a></li><li><a target=\"_blank\" href=\"https://www.blackhillsinfosec.com/abusing-exchange-mailbox-permissions-mailsniper\">https://www.blackhillsinfosec.com/abusing-exchange-mailbox-permissions-mailsniper</a></li>"
+    },
+    {
+      "name": "HTTP as Exfil",
+      "image": "decks/SAP/BNB_CARDS_v2.1_CE-1-27.png",
+      "type": "c2",
+      "id": "027",
+      "details": "<li><a target=\"_blank\" href=\"https://www.thec2matrix.com\">https://www.thec2matrix.com</a></li>"
+    },
+    {
+      "name": "Security Information and Event Management (SIEM) Log Analysis",
+      "image": "decks/SAP/BNB_CARDS_v2.1_PRO-2.png",
+      "type": "procedure",
+      "id": "034",
+      "details": "<li><a target=\"_blank\" href=\"https://www.antisyphontraining.com/event-log-analysis/\">https://www.antisyphontraining.com/event-log-analysis/</a></li><li><a target=\"_blank\" href=\"https://github.com/philhagen/sof-elk\">https://github.com/philhagen/sof-elk</a></li><li><a target=\"_blank\" href=\"https://jpcertcc.github.io/ToolAnalysisResultSheet\">https://jpcertcc.github.io/ToolAnalysisResultSheet</a></li>"
+    },
+    {
+      "name": "Firewall Log Review",
+      "image": "decks/SAP/BNB_CARDS_v2.1_PRO-3.png",
+      "type": "procedure",
+      "id": "035",
+      "details": "<li><a target=\"_blank\" href=\"https://www.antisyphontraining.com/firewall-log-analysis/\">https://www.antisyphontraining.com/firewall-log-analysis/</a></li><li><a target=\"_blank\" href=\"https://github.com/philhagen/sof-elk\">https://github.com/philhagen/sof-elk</a></li>"
+    },
+    {
+      "name": "Network Threat Hunting - Zeek/Real Intelligence Threat Analytics (RITA) Analysis",
+      "image": "decks/SAP/BNB_CARDS_v2.1_PRO-4.png",
+      "type": "procedure",
+      "id": "036",
+      "details": "<li><a target=\"_blank\" href=\"https://www.antisyphontraining.com/network-threat-hunting/\">https://www.antisyphontraining.com/network-threat-hunting/</a></li><li><a target=\"_blank\" href=\"https://www.activecountermeasures.com/free-tools/rita\">https://www.activecountermeasures.com/free-tools/rita</a></li><li><a target=\"_blank\" href=\"https://securityonionsolutions.com\">https://securityonionsolutions.com</a></li>"
+    },
+    {
+      "name": "Cyber Deception",
+      "image": "decks/SAP/BNB_CARDS_v2.1_PRO-5.png",
+      "type": "procedure",
+      "id": "037",
+      "details": "<li><a target=\"_blank\" href=\"https://www.antisyphontraining.com/cyber-deception/\">https://www.antisyphontraining.com/cyber-deception/</a></li><li><a target=\"_blank\" href=\"https://shield.mitre.org\">https://shield.mitre.org</a></li><li><a target=\"_blank\" href=\"https://www.activecountermeasures.com/free-tools/adhd/\">https://www.activecountermeasures.com/free-tools/adhd/</a></li>"
+    },
+    {
+      "name": "Endpoint Analysis",
+      "image": "decks/SAP/BNB_CARDS_v2.1_PRO-8.png",
+      "type": "procedure",
+      "id": "040",
+      "details": "<li><a target=\"_blank\" href=\"https://www.antisyphontraining.com/endpoint-analysis/\">https://www.antisyphontraining.com/endpoint-analysis/</a></li><li><a target=\"_blank\" href=\"https://github.com/sans-blue-team/DeepBlueCLI\">https://github.com/sans-blue-team/DeepBlueCLI</a></li><li><a target=\"_blank\" href=\"https://www.velocidex.com\">https://www.velocidex.com</a></li>"
+    },
+    {
+      "name": "Isolation",
+      "image": "decks/SAP/BNB_CARDS_v2.1_PRO-9.png",
+      "type": "procedure",
+      "id": "041"
+    },
+    {
+      "name": "SIEM Analyst Returns from Splunk Training",
+      "image": "decks/SAP/BNB_CARDS_v2.1_INJ-4.png",
+      "type": "inject",
+      "id": "047"
+    },
+    {
+      "name": "Take One Procedure Card Away",
+      "image": "decks/SAP/BNB_CARDS_v2.1_INJ-5.png",
+      "type": "inject",
+      "id": "048"
+    },
+    {
+      "name": "Give the Defenders a Random Procedure Card",
+      "image": "decks/SAP/BNB_CARDS_v2.1_INJ-6.png",
+      "type": "inject",
+      "id": "049"
+    },
+    {
+      "name": "Bobby the Intern Kills the System You are Reviewing",
+      "image": "decks/SAP/BNB_CARDS_v2.1_INJ-8.png",
+      "type": "inject",
+      "id": "051"
+    },
+    {
+      "name": "Malware in 3rd-party add-on",
+      "image": "decks/SAP/NM_CARDS_v1_IC-1.png",
+      "type": "initial",
+      "id": "053",
+      "details": ""
+    },
+    {
+      "name": "ABAP Job Malware",
+      "image": "decks/SAP/NM_CARDS_v1_PER-1.png",
+      "type": "persist",
+      "id": "054",
+      "details": ""
+    },
+    {
+      "name": "SAP User Added",
+      "image": "decks/SAP/NM_CARDS_v1_PER-2.png",
+      "type": "persist",
+      "id": "055",
+      "details": ""
+    },
+    {
+      "name": "SIDADM Reverse Shell",
+      "image": "decks/SAP/NM_CARDS_v1_CE-1.png",
+      "type": "c2",
+      "id": "056",
+      "details": ""
+    },
+    {
+      "name": "RFH Hopping",
+      "image": "decks/SAP/NM_CARDS_v1_PE-1.png",
+      "type": "pivot",
+      "id": "057",
+      "details": ""
+    },
+    {
+      "name": "SAP Application Security Monitoring",
+      "image": "decks/SAP/NM_CARDS_v1_PRO-1.png",
+      "type": "procedure",
+      "id": "058",
+      "details": ""
+    },
+    {
+      "name": "Code Security Review",
+      "image": "decks/SAP/NM_CARDS_v1_PRO-2.png",
+      "type": "procedure",
+      "id": "059",
+      "details": ""
+    },
+    {
+      "name": "SAP Hardening Procedure",
+      "image": "decks/SAP/NM_CARDS_v1_PRO-3.png",
+      "type": "procedure",
+      "id": "060",
+      "details": ""
+    }
+  ],
+  "red": "img/bb-back-init.png",
+  "yellow": "img/bb-back-pivot.png",
+  "brown": "img/bb-back-c2.png",
+  "purple": "img/bb-back-persist.png",
+  "grey":   "img/bb-back-inject.png",
+  "green":  "",
+  "logo":   "img/NOMONKEY-Logo.png"
+}

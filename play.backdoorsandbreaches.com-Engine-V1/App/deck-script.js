@@ -61,6 +61,9 @@ function opendeckselector() {
       {
         cardlist = "decks/RedCanary/carddb.json";
       }
+      if (selecteddeck == 'SAPCore') {
+        cardlist = 'decks/SAP/carddb.json'
+      }
   
           $.getJSON(cardlist, function(h) {
               $(a).html("<img class='full' src='"+h.red+"'>");
